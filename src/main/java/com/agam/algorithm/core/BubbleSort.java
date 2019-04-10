@@ -2,7 +2,8 @@ package com.agam.algorithm.core;
 
 /**
  * 冒泡排序
- * 时间复杂度:O(n2)
+ * 平均时间复杂度：O(n2)
+ * 最优时间复杂度：O(n)
  */
 public class BubbleSort {
     public static void bubbleSort(int[] array) {
